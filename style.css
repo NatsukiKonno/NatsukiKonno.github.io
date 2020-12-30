@@ -13,10 +13,90 @@ h1{
 
 }
 h2{
-    color: #ee2560;
+    color: #ee2560; 
+}   
+
+.box1 {
+        margin-left: 400px;
+        margin-right: 400px;
+        margin-bottom: 40px;
+        padding: 18px;
+        color: #2c2c2f;
+        background: white;
+    }
+
+.box2 {
+        margin-left: 400px;
+        margin-right: 400px;
+        padding: 18px;
+        color: #2c2c2f;
+        background: white;
+    }
+
+.box3 {
+        margin-left: 400px;
+        margin-right: 400px;
+        margin-bottom: 25px;
+        padding: 18px;
+        color: #2c2c2f;
+        background: white;
+    }
+
+.box4 {
+        margin-left: 400px;
+        margin-right: 400px;
+        margin-bottom: 25px;
+        padding: 18px;
+        color: #2c2c2f;
+        background: white;
+}
+
+.box5 {
+        margin-left: 400px;
+        margin-right: 400px;
+        margin-bottom: 30px;
+        padding: 18px;
+        color: #2c2c2f;
+        background: white;
+}
+
+.box6 {
+        margin-left: 400px;
+        margin-right: 400px;
+        margin-bottom: 25px;
+        padding: 18px;
+        color: #2c2c2f;
+        background: white;
+}
+
+.box7 {
+        margin-left: 400px;
+        margin-right: 400px;
+        margin-bottom: 25px;
+        padding: 18px;
+        color: #2c2c2f;
+        background: white;
+}
+
+.box8 {
+        margin-left: 400px;
+        margin-right: 400px;
+        margin-bottom: 25px;
+        padding: 18px;
+        color: #2c2c2f;
+        background: white;
+}
+
+.box9 {
+        margin-left: 400px;
+        margin-right: 400px;
+        margin-bottom: 25px;
+        padding: 18px;
+        color: #2c2c2f;
+        background-color: white;
 }
 h3{
-    color: #ef99fe;
+    color: #33272a;
     font-size: 25px;
 }
 li {
